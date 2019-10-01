@@ -1,2 +1,4 @@
 node_modules
 .memo.md
+secret.js
+natural-language-*.json
